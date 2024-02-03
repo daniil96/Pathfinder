@@ -13,6 +13,7 @@ struct SearchPage: View {
     
     var body: some View {
         ScrollView {
+            Image(systemName: "trash")
             Spacer(minLength: 50)
             
             LazyVStack(alignment: .leading) {
