@@ -17,6 +17,7 @@ struct HomePage: View {
                     Text("Hello, house!")
                     Spacer()
                     Text("JJJJJ")
+                    Text("khsbvkshbvls")
                 }
             } 
         }
